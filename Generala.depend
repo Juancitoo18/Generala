@@ -1,0 +1,274 @@
+# depslib dependency file v1.0
+1658089416 source:c:\users\hp\onedrive\escritorio\generala\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<windows.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	"TestDados.h"
+	"rlutil.h"
+	"juego1.h"
+	"juego2.h"
+
+1658361747 c:\users\hp\onedrive\escritorio\generala\testdados.h
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<windows.h>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"rlutil.h"
+	<dos.h>
+
+1603715401 c:\users\hp\onedrive\escritorio\generala\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1657743976 c:\users\hp\onedrive\escritorio\generala\juego.h
+	"TestDados.h"
+	"Funciones.h"
+
+1658433407 c:\users\hp\onedrive\escritorio\generala\funciones.h
+
+1657676082 c:\users\hp\onedrive\escritorio\generala\prueba.h
+	"TestDados.h"
+	"Funciones.h"
+
+1658433814 c:\users\hp\onedrive\escritorio\generala\juego1.h
+	"TestDados.h"
+	"Funciones.h"
+
+1658143898 c:\users\hp\onedrive\escritorio\generala\juego2.h
+	"TestDados.h"
+	"Funciones.h"
+
+1657839163 c:\users\hp\onedrive\escritorio\generala\final.h
+	"juego1.h"
+	"juego2.h"
+	"TestDados.h"
+
+1658089416 source:c:\users\seguridad\desktop\generala\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<windows.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	"TestDados.h"
+	"rlutil.h"
+	"juego1.h"
+	"juego2.h"
+
+1658086319 c:\users\seguridad\desktop\generala\testdados.h
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<windows.h>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"rlutil.h"
+	<dos.h>
+
+1603715401 c:\users\seguridad\desktop\generala\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1658143114 c:\users\seguridad\desktop\generala\juego1.h
+	"TestDados.h"
+	"Funciones.h"
+
+1658143148 c:\users\seguridad\desktop\generala\funciones.h
+
+1658143114 c:\users\seguridad\desktop\generala\juego2.h
+	"TestDados.h"
+	"Funciones.h"
+
+1658087078 source:c:\users\hp\onedrive\escritorio\generala2\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<windows.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	"TestDados.h"
+	"rlutil.h"
+	"juego1.h"
+	"juego2.h"
+
+1658086319 c:\users\hp\onedrive\escritorio\generala2\testdados.h
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<windows.h>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"rlutil.h"
+	<dos.h>
+
+1603715401 c:\users\hp\onedrive\escritorio\generala2\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1658087124 c:\users\hp\onedrive\escritorio\generala2\juego1.h
+	"TestDados.h"
+	"Funciones.h"
+
+1658084264 c:\users\hp\onedrive\escritorio\generala2\funciones.h
+
+1658087124 c:\users\hp\onedrive\escritorio\generala2\juego2.h
+	"TestDados.h"
+	"Funciones.h"
+
+1658089416 source:c:\users\pais gamer\desktop\laboratorio ii\generala\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<windows.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	"TestDados.h"
+	"rlutil.h"
+	"juego1.h"
+	"juego2.h"
+
+1658361747 c:\users\pais gamer\desktop\laboratorio ii\generala\testdados.h
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<windows.h>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"rlutil.h"
+	<dos.h>
+
+1603715401 c:\users\pais gamer\desktop\laboratorio ii\generala\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1658433814 c:\users\pais gamer\desktop\laboratorio ii\generala\juego1.h
+	"TestDados.h"
+	"Funciones.h"
+
+1658433407 c:\users\pais gamer\desktop\laboratorio ii\generala\funciones.h
+
+1658143898 c:\users\pais gamer\desktop\laboratorio ii\generala\juego2.h
+	"TestDados.h"
+	"Funciones.h"
+
+1658089416 source:c:\users\pais gamer\desktop\cursado tup\laboratorio ii\generala\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<windows.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	"TestDados.h"
+	"rlutil.h"
+	"juego1.h"
+	"juego2.h"
+
+1658361747 c:\users\pais gamer\desktop\cursado tup\laboratorio ii\generala\testdados.h
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<windows.h>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"rlutil.h"
+	<dos.h>
+
+1603715401 c:\users\pais gamer\desktop\cursado tup\laboratorio ii\generala\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1658433814 c:\users\pais gamer\desktop\cursado tup\laboratorio ii\generala\juego1.h
+	"TestDados.h"
+	"Funciones.h"
+
+1658433407 c:\users\pais gamer\desktop\cursado tup\laboratorio ii\generala\funciones.h
+
+1658143898 c:\users\pais gamer\desktop\cursado tup\laboratorio ii\generala\juego2.h
+	"TestDados.h"
+	"Funciones.h"
+
